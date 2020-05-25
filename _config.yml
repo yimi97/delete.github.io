@@ -1,5 +1,5 @@
 # Site settings
-title: Welcome
+title: Home
 description:  My blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog/

@@ -4,7 +4,7 @@ title: About
 subtitle: Know Yi better
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download Resume </strong></a> </span>
 <br>
 
 <div style="text-align: center;" >
@@ -49,14 +49,16 @@ Scikit-learn, Linear Regression, Logit Regression, Tree-based Models, SVM, K-mea
 <br>
 
 ### INTERESTS
-**Podcast**
-Yitianshijie (一天世界)
+**Podcasts**
+Yitianshijie (一天世界) / Bowuzhi (博物志)
 
-**Book I am currently reading**
+**Recently reading**
 2001: A Space Odyssey
 
-**Series**
-Sherlock / Shameless
+**Recently watching**
+The Young Pope
+
+<br>
 
 <div style="text-align: center;font-family: KaiTi" >
     <span>
