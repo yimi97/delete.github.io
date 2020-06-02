@@ -11,7 +11,7 @@ subtitle: Know Yi better
     <span style="font-weight: bold;">
         Hi, I’m Yi. <br>
         I am a raising second-year master student from Duke University. <br>
-        I have deep understanding in both Data Science and Software Engineering. <br>
+        My interests are in both Data Science and Software Engineering. <br>
         I love snowboarding and climbing.
     </span>
 </div> 
@@ -20,7 +20,7 @@ subtitle: Know Yi better
     <span style="font-weight: bold;">
         你好，我是米艺。 <br>
         我目前是一名即将升二年级的硕士学生，来自杜克大学统计系。<br>
-        在数据科学和软件工程方面，我都有强烈的兴趣和夯实的学术背景。 <br>
+        我的兴趣是数据科学和软件工程。 <br>
         滑雪和攀岩是我最爱的运动。喜欢网球，目前处于满场捡球的阶段。
     </span>
 </div> 
