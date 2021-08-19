@@ -12,12 +12,6 @@ subtitle:
         Hi, I’m Yi. <br>
     </span>
 </div> 
-<br>
-<div style="text-align: center;" >
-    <span style="font-weight: bold;">
-        你好，我是米艺。 <br>
-    </span>
-</div> 
 
 <br>
 
