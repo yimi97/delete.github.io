@@ -1,15 +1,15 @@
 # Site settings
 title: Home
-description:  My blog.
+description: My blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yimi97.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Yi Mi
-  github: yimi97
-  linkedin: yi-mi-899469146/
-  email: yi.mi@duke.com
+  fullname: 
+  github: 
+  linkedin: 
+  email: 
 
 
 # Syntax highlighting

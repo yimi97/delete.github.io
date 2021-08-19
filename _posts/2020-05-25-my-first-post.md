@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Photos of @Duke University"
+title:  "Photos"
 subtitle: "By Yi"
 date:   2020-05-25 00:59:21 +0530
 categories: Album

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Know Yi better
+subtitle: 
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download Resume </strong></a> </span>
@@ -10,53 +10,14 @@ subtitle: Know Yi better
 <div style="text-align: center;" >
     <span style="font-weight: bold;">
         Hi, I’m Yi. <br>
-        I am a raising second-year master student from Duke University. <br>
-        My interests are in both Data Science and Software Engineering. <br>
-        I love snowboarding and climbing.
     </span>
 </div> 
 <br>
 <div style="text-align: center;" >
     <span style="font-weight: bold;">
         你好，我是米艺。 <br>
-        我目前是一名即将升二年级的硕士学生，来自杜克大学统计系。<br>
-        我的兴趣是数据科学和软件工程。 <br>
-        滑雪和攀岩是我最爱的运动。喜欢网球，目前处于满场捡球的阶段。
     </span>
 </div> 
-
-### EDUCATION
-**Duke University** <span style="float: right; ">Aug 2019 - Present</span><br>
-_Master of Science in Statistical Science, expected to graduate in May 2021_ 
-
-**Communication University of China** <span style="float: right; ">Sept 2015 - Jul 2019</span><br>
-_Bachelor of Science in Applied Statistics_  
-
-**Peking University** <span style="float: right; ">Sept 2016 - Jul 2019</span><br>
-_Bachelor of Economics (Double Degree)_
-
-### SKILLS
-**Programming Language**
-Python, C/C++, Java, SQL, R
-<br>
-
-**Software Engineering**
-Django, RESTful API, PostgreSQL, MySQL, HTML/CSS, Git, Linux, Emacs, Docker, Kafka
-<br>
-
-**Machine Learning**
-Scikit-learn, Linear Regression, Logit Regression, Tree-based Models, SVM, K-means, Lasso, BMA, Ridge, boosting, bagging
-<br>
-
-### INTERESTS
-**Podcasts**
-Yitianshijie (一天世界) / Bowuzhi (博物志)
-
-**Recently reading**
-2001: A Space Odyssey
-
-**Recently watching**
-The Young Pope
 
 <br>
 
